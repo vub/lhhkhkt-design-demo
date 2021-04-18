@@ -1,0 +1,11 @@
+.footer {
+  padding-bottom: 16px;
+  .card-body {
+    background-image: url("/assets/images/bg-footer.png");
+    background-position: right top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: 12px;
+    padding-bottom: 0;
+  }
+}

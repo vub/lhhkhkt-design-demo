@@ -1,0 +1,15 @@
+.navbar {
+  padding: 0;
+  margin: 1px 0;
+  text-transform: uppercase;
+  line-height: 1.8;
+
+  .nav {
+    margin: 0;
+  }
+}
+
+.navbar-light {
+  margin: $spacer * 0.5 0;
+  height: 38px;
+}
