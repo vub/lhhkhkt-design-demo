@@ -7417,7 +7417,7 @@ a.text-dark:hover, a.text-dark:focus {
 .footer {
   padding-bottom: 16px; }
   .footer .card-body {
-    background-image: url("./assets/images/bg-footer.png");
+    background-image: url("/lhhkhkt-design-demo/assets/images/bg-footer.png");
     background-position: right top;
     background-size: contain;
     background-repeat: no-repeat;
